@@ -1,0 +1,14 @@
+{
+  "name": "clase_05",
+  "version": "1.0.0",
+  "description": "Clase 05, modulo 02, Jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Christian Siles",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
